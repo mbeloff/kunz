@@ -60,7 +60,7 @@
                 <p class="text-xl text-gray-600 mb-12">
                     Interested in supporting our mission? 
                     <br />
-                    Email us at hello@kunz.org.nz
+                    Email us at hello@kunz.co.nz
                 </p>
                 <a href="mailto:hello@kunz.org.nz" class="bg-gray-900 hover:bg-teal-500 transition-colors duration-100 text-white px-12 py-6 rounded-full inline-block">
                     Support Our Work
