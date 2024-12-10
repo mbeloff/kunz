@@ -21,9 +21,8 @@
                     Transforming lives through eco-friendly, affordable housing
                 </p>
                 <div class="bg-gray-100/40 p-8 rounded-xl max-w-xl mx-auto">
-                    <h2 class="text-2xl font-semibold mb-6">Our Mission</h2>
-                    <p class="text-gray-700">
-                        Kind Universe New Zealand provides sustainable, affordable housing to vulnerable communities. We believe in creating living spaces that nurture both people and the planet.
+                    <p class="text-gray-700 text-balance">
+                        Kind Universe New Zealand creates sustainable, affordable housing. We believe in creating living spaces that nurture both people and the planet.
                     </p>
                 </div>
             </div>
@@ -58,7 +57,7 @@
             <div class="max-w-3xl mx-auto text-center">
                 <h2 class="text-4xl font-semibold mb-8">Get in Touch</h2>
                 <p class="text-xl text-gray-600 mb-12">
-                    Interested in supporting our mission? 
+                    Interested in learning more about our work? 
                     <br />
                     Email us at hello@kunz.co.nz
                 </p>
@@ -70,7 +69,7 @@
 
         <!-- Footer -->
         <footer class="px-8 py-8 text-center text-gray-500">
-            <p>© 2024 Kind Universe New Zealand</p>
+            <p>© 2024 Kind Universe New Zealand - Kunz Limited</p>
         </footer>
     </div>
 </div>
