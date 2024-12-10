@@ -29,28 +29,28 @@
         </section>
 
         <!-- Impact Section -->
-        <!-- <section class="px-8 py-16 md:py-24 bg-gray-50">
+        <section class="px-8 py-16 md:py-24 bg-gray-50">
             <div class="max-w-6xl mx-auto">
                 <h2 class="text-4xl text-center font-semibold mb-12">Our Impact</h2>
                 <div class="grid md:grid-cols-3 gap-8">
                     <div class="bg-white p-8 rounded-xl shadow-lg text-center">
-                        <img src="/api/placeholder/400/300" alt="Eco Housing" class="w-full h-48 object-cover rounded-lg mb-6"/>
+                        <!-- <img src="/api/placeholder/400/300" alt="Eco Housing" class="w-full h-48 object-cover rounded-lg mb-6"/> -->
                         <h3 class="text-2xl font-semibold mb-4">Sustainable Homes</h3>
                         <p class="text-gray-600">Energy-efficient dwellings designed to minimize environmental impact</p>
                     </div>
                     <div class="bg-white p-8 rounded-xl shadow-lg text-center">
-                        <img src="/api/placeholder/400/300" alt="Community Support" class="w-full h-48 object-cover rounded-lg mb-6"/>
+                        <!-- <img src="/api/placeholder/400/300" alt="Community Support" class="w-full h-48 object-cover rounded-lg mb-6"/> -->
                         <h3 class="text-2xl font-semibold mb-4">Community Care</h3>
                         <p class="text-gray-600">Comprehensive support services for residents</p>
                     </div>
                     <div class="bg-white p-8 rounded-xl shadow-lg text-center">
-                        <img src="/api/placeholder/400/300" alt="Environmental Impact" class="w-full h-48 object-cover rounded-lg mb-6"/>
+                        <!-- <img src="/api/placeholder/400/300" alt="Environmental Impact" class="w-full h-48 object-cover rounded-lg mb-6"/> -->
                         <h3 class="text-2xl font-semibold mb-4">Green Future</h3>
                         <p class="text-gray-600">Reducing carbon footprint through innovative housing solutions</p>
                     </div>
                 </div>
             </div>
-        </section> -->
+        </section>
 
         <!-- Contact Section -->
         <section class="px-8 py-16 md:py-24">
